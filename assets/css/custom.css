@@ -1,0 +1,26 @@
+#site-header > nav > div.order-1.ml-auto.flex.items-center.md\:order-2.lg\:ml-0 > a {
+    margin-right: 10px;
+}
+
+#site-header > nav > label {
+    display: none;
+}
+
+#cartaz {
+    padding-top: 0;
+    padding-bottom: 0;
+#    margin-top: 0;
+#    margin-bottom: 0;
+}
+#top > div.page-footer > footer {
+    padding-top: 0;
+}
+
+#top > div.page-body #cartaz {
+    background-color: #17191A;
+}
+
+#cartaz > div.flex.flex-col.items-center.max-w-prose.mx-auto.gap-3.justify-center.px-6 > div.prose.prose-slate.lg\:prose-xl.dark\:prose-invert.max-w-prose > figure > div > div > img {
+    margin-top: 0;
+    margin-bottom: 0;
+}
