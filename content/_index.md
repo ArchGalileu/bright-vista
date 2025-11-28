@@ -56,6 +56,21 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
         margin: [0, 0, 0, 0]
+
+
+  - block: markdown
+    id: pretix
+    content:
+      title: ""
+      subtitle: ""
+      text: |
+        <pretix-widget event="https://registos.na-pt.org/cpna26/"></pretix-widget><noscript><div class="pretix-widget"><div class="pretix-widget-info-message">JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://registos.na-pt.org/cpna26/">click here</a>.</div></div></noscript>    
+    design:
+      columns: "1"
+      background:
+        color: "#323232"
+
+
   ###  - block: stats
   ###    content:
   ###      items:
